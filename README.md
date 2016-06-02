@@ -1,7 +1,3 @@
 # ResGuides: MATLAB Beginners Course
 
-
-
-## Hosting
-
-This site is hosted on [Platform.sh](https://platform.sh).
+This book contains the course notes for the ResBaz MATLAB Beginners course
